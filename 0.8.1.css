@@ -1,0 +1,56 @@
+body,
+html{
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container {
+       /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 100%;
+    border: 2px solid black;
+    height: fit-content;
+    width: 500px;
+    margin: 40px;
+    padding: 10px;
+    
+    
+}
+   
+
+.button{
+    margin: 10px;
+
+}
+
+.container-button{
+    justify-content: space-between;
+    
+    
+    
+}
+
+.p{
+    justify-content: space-between;
+    
+}
+.rogerinho{
+   margin: 30px; 
+   
+}
+
+.divButton{
+
+    display: flex;
+justify-content: space-between;
+
+}
+p {
+
+    text-align: justify;
+}
